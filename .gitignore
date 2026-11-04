@@ -1,0 +1,12 @@
+build/bin
+node_modules
+frontend/dist
+
+# demo media (large binaries; share via a release or link instead)
+demo/*.mp4
+demo/*.m4a
+
+# OS / editor noise
+Thumbs.db
+.DS_Store
+*.log
